@@ -64,7 +64,7 @@ The lyrics are protected by copyright and are not part of this repository. Put y
 
 ## Background
 
-This is the second phase of a research project at the Lucerne University of Applied Sciences and Arts (HSLU) and the Swiss Distance University of Applied Sciences (FFHS), 2024. The first phase is the paper [Large Language Models – Text Analysis and Generation in the Era of Generative AI](https://github.com/sreterannamaria/LLM-swiss-education-paper).
+This is the second phase of a research project at the Lucerne University of Applied Sciences and Arts (HSLU) and the Swiss Distance University of Applied Sciences (FFHS), 2024. The first phase is the paper [Large Language Models – Text Analysis and Generation in the Era of Generative AI](https://github.com/sreterannamaria/llm-swiss-education-paper).
 
 The 2024 version adapted TensorFlow's [text generation tutorial](https://www.tensorflow.org/text/tutorials/text_generation) to Swiss German and evaluated the output by hand. This version keeps the model architecture and adds a held-out validation set, baselines, automatic metrics, tests and a reproducible training script.
 
