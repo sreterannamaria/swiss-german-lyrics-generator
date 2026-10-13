@@ -1,0 +1,7 @@
+# Lyrics are copyrighted and are not distributed with this repository
+data/*.txt
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.weights.h5
+.DS_Store
